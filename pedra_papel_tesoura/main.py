@@ -8,6 +8,5 @@ def main():
     resultado = analise.analise_vencedor(jogador, computador)
     print(resultado)
 
-
 if __name__ == "__main__":
     main()
